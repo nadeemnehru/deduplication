@@ -1,0 +1,101 @@
+Cluster ID,confidence_score,Id,Skill,canonical_Id,canonical_Skill
+19,,0,ABAP,,
+20,,1,AutoCAD,,
+21,,2,CAD,,
+0,0.6983792185783386,3,Accounting,b'82',b'Accounting'
+22,,4,Budgeting,,
+23,,5,Costing,,
+0,0.6983792185783386,6,Accounting,b'82',b'Accounting'
+24,,7,CA,,
+25,,8,Sales,,
+1,0.6983792,9,Business Development,b'9',b'Business Development'
+2,0.6983792185783386,10,Marketing,b'10',b'Marketing'
+3,0.6983792,11,BPO,b'11',b'BPO'
+26,,12,Call Center,,
+4,0.6983792,13,International BPO,b'13',b'International BPO'
+5,0.6983792185783386,14,Telecaller,b'14',b'Telecaller'
+27,,15,Voice Support,,
+3,0.6983792,16,BPO,b'11',b'BPO'
+6,0.6983792185783386,17,Microsoft excel,b'17',b'Microsoft excel'
+7,0.6983792185783386,18,English Speaking,b'18',b'English Speaking'
+4,0.6983792,19,International BPO,b'13',b'International BPO'
+5,0.6983792185783386,20,Telecaller,b'14',b'Telecaller'
+8,0.6983792,21,HTML,b'21',b'HTML'
+28,,22,PHP,,
+9,0.6983792,23,C+ACM-,b'23',b'C+ACM-'
+29,,24,CSS,,
+10,0.6983792185783386,25,JavaScript,b'25',b'JavaScript'
+11,0.6983792,26,Jquery,b'26',b'Jquery'
+12,0.6983792,27,Bootstrap,b'27',b'Bootstrap'
+30,,28,Cake PHP,,
+8,0.6983792,29,HTML,b'21',b'HTML'
+10,0.6983792185783386,30,JavaScript,b'25',b'JavaScript'
+11,0.6983792,31,Jquery,b'26',b'Jquery'
+12,0.6983792,32,Bootstrap,b'27',b'Bootstrap'
+13,0.6983792,33,C,b'33',b'C'
+13,0.6983792,34,C,b'33',b'C'
+31,,35,Linux,,
+32,,36,Angular JS,,
+33,,37,AWS,,
+34,,38,Azure,,
+35,,39,Bluemix,,
+9,0.6983792,40,C+ACM-,b'23',b'C+ACM-'
+10,0.6983792185783386,41,JavaScript,b'25',b'JavaScript'
+36,,42,Python,,
+37,,43,MongoDB,,
+38,,44,NoSQL,,
+39,,45,Node JS,,
+40,,46,PL/SQL,,
+41,,47,SQLite,,
+1,0.6983792,48,Business Development,b'9',b'Business Development'
+2,0.6983792185783386,49,Marketing,b'10',b'Marketing'
+14,0.6983792,50,Photoshop,b'50',b'Photoshop'
+15,0.6983792,51,Corel Draw,b'51',b'Corel Draw'
+42,,52,Illustrator,,
+43,,53,Web Designing,,
+44,,54,Wordpress,,
+45,,55,Web Analytics,,
+46,,56,Content writing,,
+47,,57,Social Media Marketing,,
+48,,58,Customer Care Executive,,
+49,,59,Customer Relationship,,
+50,,60,Customer Service,,
+51,,61,Inbound Calling,,
+52,,62,Outbound Sales ,,
+16,0.6983792185783386,63,Billing,b'63',b'Billing'
+16,0.6983792185783386,64,Billing,b'63',b'Billing'
+6,0.6983792185783386,65,Microsoft excel,b'17',b'Microsoft excel'
+53,,66,Data Entry,,
+7,0.6983792185783386,67,English Speaking,b'18',b'English Speaking'
+16,0.6983792185783386,68,Billing,b'63',b'Billing'
+16,0.6983792185783386,69,Billing,b'63',b'Billing'
+54,,70,Pharma,,
+55,,71,Architecture,,
+16,0.6983792185783386,72,Billing,b'63',b'Billing'
+16,0.6983792185783386,73,Billing,b'63',b'Billing'
+17,0.6983792,74,Computer Operater,b'74',b'Computer Operater'
+16,0.6983792185783386,75,Billing,b'63',b'Billing'
+6,0.6983792185783386,76,Microsoft excel,b'17',b'Microsoft excel'
+56,,77,Operations Management,,
+14,0.6983792,78,Photoshop,b'50',b'Photoshop'
+16,0.6983792185783386,79,Billing,b'63',b'Billing'
+15,0.6983792,80,Corel Draw,b'51',b'Corel Draw'
+57,,81,VFX/Maya (Animation Skills),,
+0,0.6983792185783386,82,Accounting,b'82',b'Accounting'
+16,0.6983792185783386,83,Billing,b'63',b'Billing'
+6,0.6983792185783386,84,Microsoft excel,b'17',b'Microsoft excel'
+58,,85,Payroll,,
+18,0.6983792,86,Tally,b'86',b'Tally'
+0,0.6983792185783386,87,Accounting,b'82',b'Accounting'
+16,0.6983792185783386,88,Billing,b'63',b'Billing'
+17,0.6983792,89,Computer Operater,b'74',b'Computer Operater'
+59,,90,E+AC0-mail Marketing,,
+7,0.6983792185783386,91,English Speaking,b'18',b'English Speaking'
+60,,92,Hindi Speaking,,
+2,0.6983792185783386,93,Marketing,b'10',b'Marketing'
+61,,94,Online Marketing,,
+5,0.6983792185783386,95,Telecaller,b'14',b'Telecaller'
+62,,96,Typist / Typewriter,,
+18,0.6983792,97,Tally,b'86',b'Tally'
+0,0.6983792185783386,98,Accounting,b'82',b'Accounting'
+63,,99,Banking,,

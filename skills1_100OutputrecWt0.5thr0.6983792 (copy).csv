@@ -1,0 +1,101 @@
+Cluster ID,confidence+AF8-score,Id,Skill,canonical+AF8-Id,canonical+AF8-Skill,ManualIDs
+0,0.6983792186,3,Accounting,b'82',b'Accounting',0
+0,0.6983792186,6,Accounting,b'82',b'Accounting',0
+0,0.6983792186,82,Accounting,b'82',b'Accounting',0
+0,0.6983792186,87,Accounting,b'82',b'Accounting',0
+0,0.6983792186,98,Accounting,b'82',b'Accounting',0
+1,0.6983792,9,Business Development,b'9',b'Business Development',1
+1,0.6983792,48,Business Development,b'9',b'Business Development',1
+2,0.6983792186,10,Marketing,b'10',b'Marketing',2
+2,0.6983792186,49,Marketing,b'10',b'Marketing',2
+2,0.6983792186,93,Marketing,b'10',b'Marketing',2
+3,0.6983792,11,BPO,b'11',b'BPO',3
+3,0.6983792,16,BPO,b'11',b'BPO',3
+4,0.6983792,13,International BPO,b'13',b'International BPO',4
+4,0.6983792,19,International BPO,b'13',b'International BPO',4
+5,0.6983792186,14,Telecaller,b'14',b'Telecaller',5
+5,0.6983792186,20,Telecaller,b'14',b'Telecaller',5
+5,0.6983792186,95,Telecaller,b'14',b'Telecaller',5
+6,0.6983792186,17,Microsoft excel,b'17',b'Microsoft excel',6
+6,0.6983792186,65,Microsoft excel,b'17',b'Microsoft excel',6
+6,0.6983792186,76,Microsoft excel,b'17',b'Microsoft excel',6
+6,0.6983792186,84,Microsoft excel,b'17',b'Microsoft excel',6
+7,0.6983792186,18,English Speaking,b'18',b'English Speaking',7
+7,0.6983792186,67,English Speaking,b'18',b'English Speaking',7
+7,0.6983792186,91,English Speaking,b'18',b'English Speaking',7
+8,0.6983792,21,HTML,b'21',b'HTML',8
+8,0.6983792,29,HTML,b'21',b'HTML',8
+9,0.6983792,23,C+ACM-,b'23',b'C+ACM-',9
+9,0.6983792,40,C+ACM-,b'23',b'C+ACM-',9
+10,0.6983792186,25,JavaScript,b'25',b'JavaScript',10
+10,0.6983792186,30,JavaScript,b'25',b'JavaScript',10
+10,0.6983792186,41,JavaScript,b'25',b'JavaScript',10
+11,0.6983792,26,Jquery,b'26',b'Jquery',11
+11,0.6983792,31,Jquery,b'26',b'Jquery',11
+12,0.6983792,27,Bootstrap,b'27',b'Bootstrap',12
+12,0.6983792,32,Bootstrap,b'27',b'Bootstrap',12
+13,0.6983792,33,C,b'33',b'C',13
+13,0.6983792,34,C,b'33',b'C',13
+14,0.6983792,50,Photoshop,b'50',b'Photoshop',14
+14,0.6983792,78,Photoshop,b'50',b'Photoshop',14
+15,0.6983792,51,Corel Draw,b'51',b'Corel Draw',15
+15,0.6983792,80,Corel Draw,b'51',b'Corel Draw',15
+16,0.6983792186,63,Billing,b'63',b'Billing',16
+16,0.6983792186,64,Billing,b'63',b'Billing',16
+16,0.6983792186,68,Billing,b'63',b'Billing',16
+16,0.6983792186,69,Billing,b'63',b'Billing',16
+16,0.6983792186,72,Billing,b'63',b'Billing',16
+16,0.6983792186,73,Billing,b'63',b'Billing',16
+16,0.6983792186,75,Billing,b'63',b'Billing',16
+16,0.6983792186,79,Billing,b'63',b'Billing',16
+16,0.6983792186,83,Billing,b'63',b'Billing',16
+16,0.6983792186,88,Billing,b'63',b'Billing',16
+17,0.6983792,74,Computer Operater,b'74',b'Computer Operater',17
+17,0.6983792,89,Computer Operater,b'74',b'Computer Operater',17
+18,0.6983792,86,Tally,b'86',b'Tally',18
+18,0.6983792,97,Tally,b'86',b'Tally',18
+19,,0,ABAP,,,19
+20,,1,AutoCAD,,,20
+21,,2,CAD,,,20
+22,,4,Budgeting,,,21
+23,,5,Costing,,,22
+24,,7,CA,,,23
+25,,8,Sales,,,24
+26,,12,Call Center,,,25
+27,,15,Voice Support,,,25
+28,,22,PHP,,,26
+29,,24,CSS,,,27
+30,,28,Cake PHP,,,28
+31,,35,Linux,,,29
+32,,36,Angular JS,,,30
+33,,37,AWS,,,31
+34,,38,Azure,,,32
+35,,39,Bluemix,,,33
+36,,42,Python,,,34
+37,,43,MongoDB,,,35
+38,,44,NoSQL,,,36
+39,,45,Node JS,,,37
+40,,46,PL/SQL,,,38
+41,,47,SQLite,,,39
+42,,52,Illustrator,,,40
+43,,53,Web Designing,,,41
+44,,54,Wordpress,,,42
+45,,55,Web Analytics,,,43
+46,,56,Content writing,,,44
+47,,57,Social Media Marketing,,,45
+48,,58,Customer Care Executive,,,46
+49,,59,Customer Relationship,,,47
+50,,60,Customer Service,,,48
+51,,61,Inbound Calling,,,49
+52,,62,Outbound Sales ,,,50
+53,,66,Data Entry,,,51
+54,,70,Pharma,,,52
+55,,71,Architecture,,,53
+56,,77,Operations Management,,,54
+57,,81,VFX/Maya (Animation Skills),,,55
+58,,85,Payroll,,,56
+59,,90,E+AC0-mail Marketing,,,57
+60,,92,Hindi Speaking,,,58
+61,,94,Online Marketing,,,59
+62,,96,Typist / Typewriter,,,60
+63,,99,Banking,,,61
